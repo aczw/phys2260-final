@@ -1,0 +1,15 @@
+[project]
+name = "final"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "kaleido>=1.2.0",
+    "nbformat>=5.10.4",
+    "notebook>=7.5.5",
+    "pandas>=3.0.2",
+    "pillow>=12.2.0",
+    "plotly[express]>=6.7.0",
+    "scipy>=1.17.1",
+]
